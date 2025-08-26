@@ -1,0 +1,182 @@
+{
+  "personal": {
+    "name": "Sakthimurugan E",
+    "fullName": "Sakthimurugan E",
+    "role": "AI & Data Science Student | Web Developer | Problem Solver",
+    "tagline": "Passionate AI & Data Science student building innovative web solutions",
+    "location": "Tamil Nadu, India",
+    "email": "sakthimurugan3161@gmail.com",
+    "phone": "+91 93453 92724",
+    "resumeUrl": "/assets/Sakthimurugan_Resume.pdf",
+    "avatar": "https://images.pexels.com/photos/3778966/pexels-photo-3778966.jpeg?auto=compress&cs=tinysrgb&w=400",
+    "bio": "AI & Data Science student at Mailam Engineering College with expertise in web development and Python full-stack development. Passionate about leveraging artificial intelligence and data-driven solutions to solve real-world problems. Experienced in building responsive web applications and AI-based projects."
+  },
+  "socials": [
+    {"name": "LinkedIn", "url": "https://linkedin.com/in/sakthimurugan", "icon": "Linkedin"},
+    {"name": "GitHub", "url": "https://github.com/sakthimurugan", "icon": "Github"},
+    {"name": "Email", "url": "mailto:sakthimurugan3161@gmail.com", "icon": "Mail"}
+  ],
+  "skills": {
+    "Programming": ["Python", "JavaScript", "C", "HTML/CSS", "SQL"],
+    "Technologies": ["React", "Node.js", "MongoDB", "Git", "VS Code"],
+    "AI/DS": ["Data Structures", "Algorithms", "Machine Learning", "Object Detection"],
+    "Soft Skills": ["Problem Solving", "Teamwork", "Communication", "Leadership"]
+  },
+  "projects": [
+    {
+      "id": "netflix-clone",
+      "title": "Netflix Clone",
+      "tags": ["Web Development", "CSS", "JavaScript"],
+      "category": "Web Development",
+      "cover": "https://images.pexels.com/photos/265685/pexels-photo-265685.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "summary": "Pixel-perfect Netflix clone with 90% UI accuracy using modern CSS and JavaScript.",
+      "description": "Developed a responsive Netflix clone webpage that replicates the original Netflix interface with high fidelity. The project demonstrates advanced CSS techniques, responsive design principles, and interactive JavaScript functionality.",
+      "impact": ["90% UI accuracy compared to original Netflix", "Fully responsive across all devices", "Interactive hover effects and animations"],
+      "technologies": ["HTML5", "CSS3", "JavaScript", "Responsive Design"],
+      "links": {
+        "demo": "https://netflix-clone-demo.example.com",
+        "code": "https://github.com/sakthimurugan/netflix-clone"
+      }
+    },
+    {
+      "id": "python-editor",
+      "title": "Python Online Editor",
+      "tags": ["Python", "Real-time", "Web Development"],
+      "category": "Web Development",
+      "cover": "https://images.pexels.com/photos/1181671/pexels-photo-1181671.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "summary": "Online Python editor with real-time syntax highlighting and code execution.",
+      "description": "Built an interactive Python editor that allows users to write, edit, and execute Python code in the browser. Features include syntax highlighting, real-time error detection, and instant output display.",
+      "impact": ["30% more interactive than traditional editors", "Real-time syntax highlighting", "Instant code execution and output"],
+      "technologies": ["Python", "JavaScript", "CodeMirror", "Web APIs"],
+      "links": {
+        "demo": "https://python-editor-demo.example.com",
+        "code": "https://github.com/sakthimurugan/python-editor"
+      }
+    },
+    {
+      "id": "ai-object-detection",
+      "title": "AI Object Detection System",
+      "tags": ["AI", "Machine Learning", "Web App"],
+      "category": "Artificial Intelligence",
+      "cover": "https://images.pexels.com/photos/8386440/pexels-photo-8386440.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "summary": "AI-powered object detection system improving navigation efficiency by 30%.",
+      "description": "Designed and implemented an AI-based object detection project that enhances user navigation and interaction. The system uses machine learning algorithms to identify and classify objects in real-time.",
+      "impact": ["30% faster site navigation", "Real-time object recognition", "Improved user experience"],
+      "technologies": ["Python", "TensorFlow", "OpenCV", "Flask", "JavaScript"],
+      "links": {
+        "demo": "https://ai-detection-demo.example.com",
+        "code": "https://github.com/sakthimurugan/ai-object-detection"
+      }
+    },
+    {
+      "id": "event-rsvp",
+      "title": "Event Planning RSVP System",
+      "tags": ["Full Stack", "Real-time", "Event Management"],
+      "category": "Full Stack",
+      "cover": "https://images.pexels.com/photos/1190298/pexels-photo-1190298.jpeg?auto=compress&cs=tinysrgb&w=800",
+      "summary": "Event planning platform with customizable layouts for 1,000+ users.",
+      "description": "Engineered a comprehensive RSVP and event planning platform featuring customizable layout builder, real-time updates, and scalable architecture to handle over 1,000 concurrent users.",
+      "impact": ["Supports 1,000+ concurrent users", "Real-time event updates", "Customizable event layouts"],
+      "technologies": ["React", "Node.js", "MongoDB", "Socket.io", "Express"],
+      "links": {
+        "demo": "https://event-rsvp-demo.example.com",
+        "code": "https://github.com/sakthimurugan/event-rsvp-system"
+      }
+    }
+  ],
+  "experience": [
+    {
+      "role": "Web Development Intern",
+      "company": "Adventure Technology & Solutions",
+      "location": "Remote",
+      "duration": "Aug 2024 - Sept 2024",
+      "description": "Contributed to AI-based web development projects and event management platforms.",
+      "achievements": [
+        "Designed AI-based Object Detection project, boosting navigation efficiency by 30%",
+        "Engineered RSVP/event planning platform with customizable layout builder",
+        "Implemented real-time updates for 1,000+ users",
+        "Collaborated with cross-functional teams to deliver high-quality solutions"
+      ]
+    },
+    {
+      "role": "Python Full Stack Developer Intern",
+      "company": "AICTE Eduskills + Google for Developers",
+      "location": "Remote",
+      "duration": "2024",
+      "description": "Completed comprehensive Python Full Stack development internship program.",
+      "achievements": [
+        "Mastered Python backend development with Django/Flask",
+        "Built responsive front-end interfaces with modern frameworks",
+        "Implemented database design and optimization techniques",
+        "Developed RESTful APIs and integrated third-party services"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "Bachelor of Technology in Artificial Intelligence & Data Science",
+      "institution": "Mailam Engineering College",
+      "location": "Villupuram, Tamil Nadu",
+      "duration": "Nov 2022 - 2026",
+      "gpa": "8.2/10 (A/A+)",
+      "coursework": ["Machine Learning", "Data Structures & Algorithms", "Database Management", "Operating Systems", "Software Engineering"]
+    },
+    {
+      "degree": "Higher Secondary Certificate",
+      "institution": "A.K.T Higher Secondary School",
+      "location": "Kallakurichi, Tamil Nadu",
+      "duration": "2020 - 2022",
+      "gpa": "Distinction",
+      "coursework": ["Mathematics", "Physics", "Chemistry", "Computer Science"]
+    }
+  ],
+  "certifications": [
+    {
+      "title": "Google AI Essentials",
+      "organization": "Coursera",
+      "description": "Comprehensive course covering AI fundamentals and practical applications"
+    },
+    {
+      "title": "Foundations of Cybersecurity",
+      "organization": "Tata Strive",
+      "description": "Essential cybersecurity principles and best practices"
+    },
+    {
+      "title": "Python Programming (Intro/Intermediate)",
+      "organization": "Sololearn",
+      "description": "Complete Python programming from basics to advanced concepts"
+    },
+    {
+      "title": "MongoDB Database Administration",
+      "organization": "MongoDB University",
+      "description": "Database design, optimization, and administration with MongoDB"
+    },
+    {
+      "title": "Python Fundamentals",
+      "organization": "Coddy Tech",
+      "description": "Core Python programming concepts and practical applications"
+    },
+    {
+      "title": "Problem Solving Certification",
+      "organization": "HackerRank",
+      "description": "Algorithmic thinking and problem-solving skills assessment"
+    }
+  ],
+  "achievements": [
+    {
+      "title": "Web Development Excellence",
+      "organization": "Adventure Technology & Solutions",
+      "description": "Recognized for outstanding performance in AI-based web development projects"
+    },
+    {
+      "title": "Python Full Stack Certification",
+      "organization": "AICTE Eduskills + Google for Developers",
+      "description": "Successfully completed comprehensive Python full-stack development program"
+    },
+    {
+      "title": "Academic Achievement",
+      "organization": "Mailam Engineering College",
+      "description": "Maintaining 8.2/10 CGPA in AI & Data Science program"
+    }
+  ]
+}
